@@ -2,7 +2,7 @@
 *"Biz faqat tijorat dasturlashida kerak bo'lganlarini o'rgatamiz"*
 
 #### 1. HTML
-*Asoslarning asosi, hujjat tuzilishi. Unda sayt skeleti yaratilgan, uning tuzilishi va skeletining o'zi ko'rsatilgan *
+*Asoslarning asosi, hujjat tuzilishi. Unda sayt skeleti yaratilgan, uning tuzilishi va skeletining o'zi ko'rsatilgan*
 #### 2. SCSS
 *Stilizatsiya. SCSS har qanday qurilma uchun go'zallik va saytni moslashtirish nuqtai nazaridan qora kamarga ega. Uning yordamida sizning har qanday loyihangiz ajoyib ko'rinadi (agar urinib ko'rsangiz).*
 #### 3. JavaScript
