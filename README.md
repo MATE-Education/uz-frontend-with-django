@@ -1,4 +1,4 @@
-## Django front-end kursi
+## React front-end kursi
 *"Biz faqat tijorat dasturlashida kerak bo'lganlarini o'rgatamiz"*
 
 #### 1. HTML
